@@ -1,1 +1,13 @@
-{}
+{
+    "password_authn": {
+        "projectName": "password_authn",
+        "description": "Simple password authn",
+        "type": "community",
+        "author": "temp-ossdhaval",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/temp-ossdhaval/agama-check",
+        "githubUri": "https://github.com/temp-ossdhaval/agama-check",
+        "license": "MIT",
+        "lastUpdated": "1681979554843"
+    }
+}
