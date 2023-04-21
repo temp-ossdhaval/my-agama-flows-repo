@@ -4,7 +4,7 @@
         "description": "Simple Password Authentication",
         "type": "community",
         "author": "temp-ossdhaval",
-        "version": "0.0.1",
+        "version": "2.0.0",
         "authorWebsite": "https://github.com/temp-ossdhaval/agama-check",
         "githubUri": "https://github.com/temp-ossdhaval/agama-check",
         "license": "MIT",
