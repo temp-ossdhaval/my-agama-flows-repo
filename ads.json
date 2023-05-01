@@ -1,13 +1,1 @@
-{
-    "pass_auth": {
-        "projectName": "pass_auth",
-        "description": "Simple Password Authentication",
-        "type": "community",
-        "author": "temp-ossdhaval",
-        "version": "2.0.0",
-        "authorWebsite": "https://github.com/temp-ossdhaval/agama-check",
-        "githubUri": "https://github.com/temp-ossdhaval/agama-check",
-        "license": "MIT",
-        "lastUpdated": "1681984555841"
-    }
-}
+{}
