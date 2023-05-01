@@ -1,1 +1,13 @@
-{}
+{
+    "username_password_authentication": {
+        "projectName": "username_password_authentication",
+        "description": "Username-password based authentication flow",
+        "type": "community",
+        "author": "temp-ossdhaval",
+        "version": "0.0.0",
+        "authorWebsite": "https://github.com/temp-ossdhaval/my-agama-flows-repo",
+        "githubUri": "https://github.com/temp-ossdhaval/my-agama-flows-repo",
+        "license": "MIT",
+        "lastUpdated": "1682937761243"
+    }
+}
