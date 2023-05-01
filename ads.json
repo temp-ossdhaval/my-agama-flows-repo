@@ -1,1 +1,13 @@
-{}
+{
+    "simple_password_authn": {
+        "projectName": "simple_password_authn",
+        "description": "Username-password authentication flow",
+        "type": "community",
+        "author": "temp-ossdhaval",
+        "version": "0.0.0",
+        "authorWebsite": "https://github.com/temp-ossdhaval/my-agama-flows-repo",
+        "githubUri": "https://github.com/temp-ossdhaval/my-agama-flows-repo",
+        "license": "MIT",
+        "lastUpdated": "1682937442301"
+    }
+}
